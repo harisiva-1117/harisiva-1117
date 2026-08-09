@@ -1,303 +1,218 @@
 <div align="center">
 
-# 👨‍💻 HARISIVA P
+# Harisiva P
 
-### Software Developer • AI Enthusiast • Full-Stack Developer
-
-Building modern web applications, exploring AI, and turning ideas into real-world solutions.
+### Full Stack Developer | AI Enthusiast | ECE Student
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="35%" align="center" valign="top">
+## 👨‍💻 About Me
 
-<img src="./HARISIVA%20PROFILE.jpeg" width="280" alt="Harisiva P"/>
+```python
+class HarisivaP:
+    def __init__(self):
+        self.name = "Harisiva P"
+        self.role = "Full Stack Developer"
+        self.location = "Namakkal, Tamil Nadu, India"
+        self.degree = "B.E. Electronics & Communication Engineering"
+        self.college = "K.S. Rangasamy College of Technology"
 
-<br><br>
+        self.stack = [
+            "JavaScript",
+            "Python",
+            "Java",
+            "React",
+            "FastAPI",
+            "Node.js",
+            "MongoDB",
+            "Bootstrap"
+        ]
 
-### HARISIVA P
+        self.interests = [
+            "Artificial Intelligence",
+            "Full-Stack Development",
+            "IoT",
+            "Computer Vision"
+        ]
 
-**B.E. Electronics & Communication Engineering**
-
-K.S. Rangasamy College of Technology  
-Namakkal, Tamil Nadu, India
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-harisiva--1117-black?style=for-the-badge&logo=github)](https://github.com/harisiva-1117)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harisiva%20P-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harisiva-p-113a73327/)
-
-</td>
-
-<td width="65%" valign="top">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                      HARISIVA P                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  OS              Windows                                     │
-│  IDE             VS Code                                     │
-│                                                              │
-│  Languages       JavaScript • Python • Java                  │
-│                  HTML • CSS                                  │
-│                                                              │
-│  Frontend        React • Bootstrap                           │
-│                                                              │
-│  Backend         FastAPI • Node.js                           │
-│                                                              │
-│  Database        MongoDB                                     │
-│                                                              │
-│  Tools           Git • GitHub • VS Code                      │
-│                                                              │
-│  Deployment      Vercel • Render                             │
-│                                                              │
-│  Interests       Full-Stack Development • AI • IoT           │
-│                  Computer Vision • Web Development           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+    def motto(self):
+        return "Build. Learn. Create. Innovate."
 ```
 
-</td>
-</tr>
-</table>
+---
+
+## 🛠️ Technologies
+
+```text
+Languages
+├── JavaScript
+├── Python
+├── Java
+├── HTML
+└── CSS
+
+Frontend
+├── React
+└── Bootstrap
+
+Backend
+├── FastAPI
+└── Node.js
+
+Database
+└── MongoDB
+
+Tools
+├── Git
+├── GitHub
+└── VS Code
+
+Deployment
+├── Vercel
+└── Render
+```
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm **Harisiva P**, a B.E. Electronics & Communication Engineering student at **K.S. Rangasamy College of Technology**.
-
-I enjoy building modern web applications and exploring the intersection of **software development, artificial intelligence, IoT, and real-world problem solving**.
-
-My development journey includes building full-stack applications, AI-focused ideas, professional websites, and collaborative projects.
-
-Currently focused on:
-
-- 🚀 Full-Stack Development
-- 🤖 Artificial Intelligence
-- 🌐 Modern Web Applications
-- 📡 IoT & Edge Computing
-- 👁️ Computer Vision
-- 🧠 AI-assisted Development
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Projects
 
 ### ☕ KFC — Kolli Hills Fresh Cafe
 
-A modern cafe ordering platform designed for online ordering and pickup.
+A full-stack cafe ordering platform designed for online ordering and pickup.
 
-**Tech Stack**
+**Technologies:** React • FastAPI • MongoDB
 
-`React` `FastAPI` `MongoDB`
-
-**Features**
-
+**Features:**
 - Online menu
+- Product categories
 - Shopping cart
 - Checkout
 - Order tracking
 - Backend API
 - MongoDB integration
-- Admin-oriented architecture
 
-🌐 **Live Demo**
-
+🌐 **Live Demo:**  
 https://kolli-hills-fresh-cafe-frontend.onrender.com/
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 💪 77 Fitness Studio
 
-A premium luxury fitness studio website focused on cinematic UI, animations and modern interaction.
+A premium fitness studio website focused on modern UI, cinematic design and interactive experiences.
 
-**Tech Stack**
+**Technologies:** React • Vite • GSAP • Framer Motion • Three.js
 
-`React` `Vite` `GSAP` `Framer Motion` `Three.js`
-
-**Focus**
-
+**Focus:**
 - Premium UI
-- Animation
+- Modern animations
 - Interactive experiences
 - Responsive design
-- Modern frontend architecture
 
-🚧 **Deployment coming later**
+🚧 Deployment coming later.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🤖 SYSTEMS-PROMPTS
 
-A collection/project focused on AI systems and prompt engineering.
+An AI-focused project exploring system prompts, prompt engineering and AI workflows.
 
-**Focus**
+**Focus:** AI • Prompt Engineering • LLM Workflows
 
-`AI` `Prompt Engineering` `LLM Workflows`
+🚧 Further development coming later.
 
-🚧 **Deployment / further development coming later**
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🎨 GEJ DESIGN
 
-A web design and development project focused on creating a modern digital presence.
+A modern web design and development project focused on creating a professional digital experience.
 
-**Focus**
+**Focus:** Web Development • UI Design • Responsive Design
 
-`Web Development` `UI Design` `Responsive Design`
-
-🚧 **Deployment coming later**
-
-</td>
-</tr>
-</table>
+🚧 Deployment coming later.
 
 ---
 
-# 🤖 Innovation & AI Ideas
+## 🤖 AI & Innovation
 
-## 01. IoT Based Disaster Management System
+### 📡 IoT Based Disaster Management System
 
-A decentralized IoT and edge-computing disaster management system designed for real-time detection of multiple hazards.
+A decentralized IoT and edge-computing concept designed for real-time disaster detection and emergency response.
 
-### Core Technologies
+**Technologies:**
 
 `ESP32` `IoT` `Edge Computing` `LoRa` `Wi-Fi`
 
-### Disaster Detection
+**Designed for detecting:**
 
-- 🔥 Fire detection
-- 🌊 Flood / water-level monitoring
-- 🏔️ Landslide detection using accelerometers
-- 📡 Long-range LoRa emergency communication
-- 🚨 Local alarm system
-- 📺 LCD status display
-- ☁️ IoT notifications when internet connectivity is available
+- 🔥 Fire
+- 🌊 Floods
+- 🏔️ Landslides
 
-The system is designed to continue operating during network failures through local edge processing and long-range communication.
+The concept uses local processing, sensors, alarms and communication systems to provide alerts even when conventional network connectivity is unavailable.
 
 ---
 
-## 02. VisionGuard AI
+### 👁️ VisionGuard AI
 
-### Adaptive Few-Shot Visual Quality Inspection System
+**Adaptive Few-Shot Visual Quality Inspection System**
 
-An AI-powered visual inspection concept designed specifically for Micro, Small and Medium Enterprises.
+An AI-powered visual inspection concept designed for MSMEs.
 
-### Core Technologies
+**Technologies:**
 
 `Computer Vision` `Few-Shot Learning` `Transfer Learning` `Human-in-the-Loop AI`
 
-### Key Idea
+**Core idea:**
 
-The system is designed to learn a new defect using only **5–10 images**, reducing the need for large labeled datasets and expensive retraining.
-
-### Applications
-
-- Automotive components
-- Textiles
-- Plastics
-- Electronics
-- Metal casting
-- Packaging
-- Leather products
-- Manufacturing quality inspection
+Enable the inspection system to learn a new defect from only **5–10 images**, reducing the dependency on large labeled datasets.
 
 ---
 
-# 📖 Anthology Project
+## 📖 Anthology
 
-## The Future of Memory and Identity in a Digital World
+### The Future of Memory and Identity in a Digital World
 
-**Compiler:** Mr. P. Harisiva  
+**Compiler:** M. P. Harisiva  
 **Co-Compiler:** Ms. V. S. Harshini
 
 A collaborative anthology exploring the relationship between memory, identity and digital technology.
 
-### Themes
+**Themes:**
 
 - 🧠 Memory Augmentation
 - 💾 Digital Afterlife
 - 🤖 Artificial Memory
 - 🌐 Online Identity
 
-### My Contribution
+**My contribution:**
 
-- Coordinated the collection of articles from **50 contributors**
+- Coordinated article collection from **50 contributors**
 - Organized contributor submissions
 - Worked on contributor introductions and profiles
 - Coordinated content compilation
-- Contributed to preparing the anthology for publication
+- Contributed to preparing the anthology
 
-**Language:** English / Tamil
+**Languages:** English / Tamil
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 ### 🥉 3rd Position — Paper Presentation
 
-**ASTHRA-2K25 — National Level Technical Symposium & Cultural Fest**
+**ASTHRA-2K25**  
+National Level Technical Symposium & Cultural Fest  
+Karpagam Institute of Technology, Coimbatore
 
-**Karpagam Institute of Technology, Coimbatore**
-
-📅 April 9, 2025
+**Date:** April 9, 2025
 
 ---
 
 ### 🥉 3rd Prize — Speaking Competition
 
-**Topic:** *“Digital Book: Is It Better or Not?”*
+**Topic:** *"Digital Book: Is It Better or Not?"*
 
 ---
 
@@ -309,134 +224,124 @@ Coordinated the collection and compilation of articles from **50 contributors**.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| **B.E. Electronics & Communication Engineering** | **K.S. Rangasamy College of Technology, Namakkal** | Aug 2024 – May 2028 | **CGPA: 8.94 / 10** |
+### B.E. Electronics & Communication Engineering
 
----
+**K.S. Rangasamy College of Technology, Namakkal**
 
-# 📜 Education & Certifications
+`Aug 2024 – May 2028`
 
-### 💻 Certifications
-
-| Certification | Platform | Details |
-|---|---|---|
-| C Programming | Infosys Springboard | Fundamentals, memory management & programming concepts |
-| Industrial IoT | NPTEL | 12-week course · **79/100** · IoT protocols, SCADA, sensor networks |
+**CGPA: 8.94 / 10**
 
 ---
 
-## 🤖 Google AI Specialization
+## 📜 Certifications
 
-### 7 / 7 Courses Completed ✅
+### 🤖 Google AI
 
-| # | Course |
-|---:|---|
-| 01 | AI Fundamentals |
-| 02 | AI for Brainstorming and Planning |
-| 03 | AI for Research and Insights |
-| 04 | AI for Writing and Communicating |
-| 05 | AI for Content Creation |
-| 06 | AI for Data Analysis |
-| 07 | AI for App Building |
-
----
-
-## 🪟 Microsoft Learn
-
-### 2 Achievements / Badges 🏅
-
-| Achievement | Status |
-|---|---|
-| Introduction to AI concepts | ✅ Assessment Passed |
-| Get started with generative AI and agents in Azure | ✅ Assessment Passed |
-
----
-
-# 🌍 IELTS
-
-**Overall Band Score: 6.0**
-
-| Skill | Band |
-|---|---:|
-| Reading   | 6.0 |
-| Listening | 6.0 |
-| Writing   | 5.5 |
-| Speaking  | 6.0 |
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harisiva-1117&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisiva-1117&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=harisiva-1117&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harisiva-1117&theme=tokyo-night&hide_border=true" width="95%" />
-
-</div>
-
----
-
-# 🎯 Currently Learning
+**7 / 7 Courses Completed**
 
 ```text
-┌───────────────────────────────────────────────────┐
-│                                                   │
-│  → Full-Stack Development                         │
-│  → Advanced React                                 │
-│  → Backend Development                            │
-│  → Artificial Intelligence                        │
-│  → Machine Learning                               │
-│  → Computer Vision                                │
-│  → IoT & Edge Computing                           │
-│                                                   │
-└───────────────────────────────────────────────────┘
+01. AI Fundamentals
+02. AI for Brainstorming and Planning
+03. AI for Research and Insights
+04. AI for Writing and Communicating
+05. AI for Content Creation
+06. AI for Data Analysis
+07. AI for App Building
 ```
 
 ---
 
-# 📫 Connect With Me
+### 🪟 Microsoft Learn
+
+**2 Achievements / Badges**
+
+```text
+01. Introduction to AI concepts
+02. Get started with generative AI and agents in Azure
+```
+
+---
+
+### 📡 NPTEL
+
+**Industrial IoT — 79/100**
+
+12-week course covering IoT protocols, SCADA and sensor networks.
+
+---
+
+### 💻 Infosys Springboard
+
+**C Programming**
+
+Fundamentals, memory management and programming concepts.
+
+---
+
+## 🌍 IELTS
+
+**Overall Band: 6.0**
+
+```text
+Reading       6.0
+Listening     6.0
+Writing       5.5
+Speaking      6.0
+-------------------
+Overall       6.0
+```
+
+---
+
+## 🧠 Currently Learning
+
+```text
+→ Full-Stack Development
+→ Advanced React
+→ Artificial Intelligence
+→ Machine Learning
+→ Computer Vision
+→ IoT & Edge Computing
+```
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-📧 **Email:**  
-harisiva.ksr.ct@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=harisiva-1117&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisiva-1117&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/harisiva-p-113a73327/
+<br><br>
 
-<br>
-
-💻 **GitHub:**  
-https://github.com/harisiva-1117
+<img src="https://streak-stats.demolab.com?user=harisiva-1117&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
 ---
 
+## 📫 Connect With Me
+
+```text
+Email:
+harisiva.ksr.ct@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/harisiva-p-113a73327/
+
+GitHub:
+https://github.com/harisiva-1117
+```
+
+---
+
 <div align="center">
 
-### 💡 Build. Learn. Create. Innovate.
-
-**Thanks for visiting my GitHub profile! 🚀**
+### Build. Learn. Create. Innovate. 🚀
 
 </div>
