@@ -40,8 +40,8 @@ Namakkal, Tamil Nadu, India
 │                      HARISIVA P                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  OS              Windows                                    │
-│  IDE             VS Code                                    │
+│  OS              Windows                                     │
+│  IDE             VS Code                                     │
 │                                                              │
 │  Languages       JavaScript • Python • Java                  │
 │                  HTML • CSS                                  │
@@ -50,13 +50,13 @@ Namakkal, Tamil Nadu, India
 │                                                              │
 │  Backend         FastAPI • Node.js                           │
 │                                                              │
-│  Database        MongoDB                                    │
+│  Database        MongoDB                                     │
 │                                                              │
-│  Tools           Git • GitHub • VS Code                     │
+│  Tools           Git • GitHub • VS Code                      │
 │                                                              │
 │  Deployment      Vercel • Render                             │
 │                                                              │
-│  Interests       Full-Stack Development • AI • IoT          │
+│  Interests       Full-Stack Development • AI • IoT           │
 │                  Computer Vision • Web Development           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
@@ -259,7 +259,7 @@ The system is designed to learn a new defect using only **5–10 images**, reduc
 
 ## The Future of Memory and Identity in a Digital World
 
-**Compiler:** M. P. Harisiva  
+**Compiler:** Mr. P. Harisiva  
 **Co-Compiler:** Ms. V. S. Harshini
 
 A collaborative anthology exploring the relationship between memory, identity and digital technology.
@@ -361,10 +361,10 @@ Coordinated the collection and compilation of articles from **50 contributors**.
 
 | Skill | Band |
 |---|---:|
-| Reading | 6.0 |
+| Reading   | 6.0 |
 | Listening | 6.0 |
-| Writing | 5.5 |
-| Speaking | 6.0 |
+| Writing   | 5.5 |
+| Speaking  | 6.0 |
 
 ---
 
@@ -401,11 +401,11 @@ Coordinated the collection and compilation of articles from **50 contributors**.
 │                                                   │
 │  → Full-Stack Development                         │
 │  → Advanced React                                 │
-│  → Backend Development                             │
-│  → Artificial Intelligence                         │
-│  → Machine Learning                                │
-│  → Computer Vision                                 │
-│  → IoT & Edge Computing                            │
+│  → Backend Development                            │
+│  → Artificial Intelligence                        │
+│  → Machine Learning                               │
+│  → Computer Vision                                │
+│  → IoT & Edge Computing                           │
 │                                                   │
 └───────────────────────────────────────────────────┘
 ```
