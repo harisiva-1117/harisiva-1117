@@ -1,5 +1,23 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffffff,fff5f5,ffcccc,ef4444,dc2626&height=180&section=header&text=Harisiva%20P&fontSize=48&fontColor=dc2626&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=65&descSize=17&descColor=1f2937"/>
+
+<br>
+
+<h1 style="color:#dc2626;">Hey, I'm Harisiva P 👋</h1>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=harisiva-1117&label=Profile%20Views&color=dc2626&style=for-the-badge" alt="Profile Views"/>
+
+  
+
+<a href="https://github.com/harisiva-1117?tab=followers"> <img src="https://img.shields.io/github/followers/harisiva-1117?label=Followers&style=for-the-badge&color=dc2626&labelColor=ffffff" alt="GitHub Followers"/> </a>
+
+<br><br>
+
+</div><div align="center">
+
 # 👨‍💻 HARISIVA P
 
 ### Software Developer • AI Enthusiast • Full-Stack Developer
