@@ -7,15 +7,12 @@
 <h1 style="color:#dc2626;">Hey, I'm Harisiva P 👋</h1>
 
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=harisiva-1117&label=Profile%20Views&color=dc2626&style=for-the-badge" alt="Profile Views"/>
 
 <a href="https://github.com/harisiva-1117?tab=followers">
 <img src="https://img.shields.io/github/followers/harisiva-1117?label=Followers&style=for-the-badge&color=dc2626&labelColor=ffffff" alt="GitHub Followers"/>
 </a>
-
 <br><br>
-
 </div>
 <hr style="border: 0; border-top: 1px solid #30363d;">
 </div><div align="center">
