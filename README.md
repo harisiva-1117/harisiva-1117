@@ -4,31 +4,37 @@
 
 ### Software Developer • AI Enthusiast • Full-Stack Developer
 
-Building modern web applications, exploring AI, and turning ideas into real-world solutions.
+Building modern web applications, exploring Artificial Intelligence, and turning ideas into real-world solutions. 🚀
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-harisiva--1117-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harisiva-1117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harisiva%20P-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harisiva-p-113a73327/)
+[![Email](https://img.shields.io/badge/Email-harisiva.ksr%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harisiva.ksr.ct@gmail.com)
 
 </div>
 
 ---
 
+## 🧑‍💻 About Me
+
 <table>
 <tr>
 <td width="35%" align="center" valign="top">
-
-
-<br><br>
 
 ### HARISIVA P
 
 **B.E. Electronics & Communication Engineering**
 
-K.S. Rangasamy College of Technology  
+K.S. Rangasamy College of Technology
 Namakkal, Tamil Nadu, India
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-harisiva--1117-black?style=for-the-badge&logo=github)](https://github.com/harisiva-1117)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harisiva%20P-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harisiva-p-113a73327/)
+🎯 Full-Stack Development
+🤖 Artificial Intelligence
+👁️ Computer Vision
+📡 IoT & Edge Computing
 
 </td>
 
@@ -36,10 +42,10 @@ Namakkal, Tamil Nadu, India
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                      HARISIVA P                              │
+│                         HARISIVA P                           │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  OS              Windows                                     │
+│  OS              Windows • Linux                             │
 │  IDE             VS Code                                     │
 │                                                              │
 │  Languages       JavaScript • Python • Java                  │
@@ -49,14 +55,16 @@ Namakkal, Tamil Nadu, India
 │                                                              │
 │  Backend         FastAPI • Node.js                           │
 │                                                              │
-│  Database        MongoDB                                     │
+│  Database        MongoDB • PostgreSQL                        │
+│                                                              │
+│  AI / ML         Artificial Intelligence • Computer Vision   │
+│                  Machine Learning • Prompt Engineering       │
+│                                                              │
+│  IoT             ESP32 • Sensors • Edge Computing            │
 │                                                              │
 │  Tools           Git • GitHub • VS Code                      │
 │                                                              │
 │  Deployment      Vercel • Render                             │
-│                                                              │
-│  Interests       Full-Stack Development • AI • IoT           │
-│                  Computer Vision • Web Development           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -67,50 +75,72 @@ Namakkal, Tamil Nadu, India
 
 ---
 
-## 🧑‍💻 About Me
+# 🚀 What I Do
 
-I'm **Harisiva P**, a B.E. Electronics & Communication Engineering student at **K.S. Rangasamy College of Technology**.
+I'm **Harisiva P**, a B.E. Electronics & Communication Engineering student passionate about building technology that solves practical problems.
 
-🚀 I’m a developer who enjoys transforming ideas into meaningful software solutions. I build modern web applications, explore AI-driven concepts, and experiment with technologies such as IoT and Computer Vision. From developing full-stack projects to working on innovative ideas and collaborative initiatives, I’m constantly learning, building, and looking for new ways to turn technology into real-world impact. 💻🤖🌍
-Currently focused on:
+I enjoy working across the intersection of **software, AI, computer vision and hardware**, from designing full-stack web applications to experimenting with intelligent IoT systems.
 
-- 🚀 Full-Stack Development
-- 🤖 Artificial Intelligence
-- 🌐 Modern Web Applications
-- 📡 IoT & Edge Computing
-- 👁️ Computer Vision
-- 🧠 AI-assisted Development
+### Currently focused on:
+
+* 🚀 Full-Stack Web Development
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 👁️ Computer Vision
+* 📡 IoT & Edge Computing
+* 🔧 Backend Development
+* ⚡ AI-assisted Development
+* 💡 Real-world Product Development
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Frontend
+### ⚛️ Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 
-### Backend & Database
+### ⚙️ Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-### Tools & Deployment
+### 🗄️ Database
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat-square)
+
+### 📡 IoT & Hardware
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square\&logo=espressif\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00A98F?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+
+### 🔧 Tools & Deployment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
 
 ---
 
@@ -118,137 +148,244 @@ Currently focused on:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### ☕ KFC — Kolli Hills Fresh Cafe
+## ☕ Kolli Hills Fresh Cafe
 
-A modern cafe ordering platform designed for online ordering and pickup.
+A complete online ordering platform designed for a local cafe with pickup-based ordering.
 
-**Tech Stack**
+### Tech Stack
 
-`React` `FastAPI` `MongoDB` `MySql`
+`React` `FastAPI` `MongoDB` `Node.js`
 
-**Features**
+### Features
 
-- Online menu
-- Shopping cart
-- Checkout
-- Order tracking
-- Backend API
-- MongoDB integration
-- Admin-oriented architecture
+* 🍽️ Online menu
+* 🛒 Shopping cart
+* 💳 Checkout
+* 📦 Order tracking
+* 🔌 REST API
+* 🗄️ MongoDB integration
+* 👨‍💼 Admin architecture
+* 📱 Responsive interface
+* ☁️ Cloud deployment
 
-🌐 **Live Demo**
+### 🌐 Live Project
 
-https://kolli-hills-fresh-cafe-frontend.onrender.com/
+[**Visit Kolli Hills Fresh Cafe →**](https://kolli-hills-fresh-cafe-frontend.onrender.com/)
+
+### 💻 Repository
+
+[**View on GitHub →**](https://github.com/harisiva-1117/KFC-Kolli-Hills-Fresh-Cafe-)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💪 77 Fitness Studio
+## 💪 77 Fitness Studio
 
-A premium luxury fitness studio website focused on cinematic UI, animations and modern interaction.
+A premium luxury fitness studio website focused on cinematic design, animations and interactive experiences.
 
-**Tech Stack**
+### Tech Stack
 
 `React` `Vite` `GSAP` `Framer Motion` `Three.js`
 
-**Focus**
+### Focus
 
-- Premium UI
-- Animation
-- Interactive experiences
-- Responsive design
-- Modern frontend architecture
+* 🖤 Premium visual design
+* 🎬 Cinematic interactions
+* ✨ Smooth animations
+* 📱 Responsive architecture
+* 🧩 Component-based React
+* 🌐 Modern frontend engineering
 
-🚧 **Deployment coming later**
+### Status
+
+🚧 Active development
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 SYSTEMS-PROMPTS
+## 🏥 Nagappa Medicals
 
-A collection/project focused on AI systems and prompt engineering.
+A modern digital presence for a local medical store with healthcare-focused information and enquiry features.
 
-**Focus**
+### Tech Stack
 
-`AI` `Prompt Engineering` `LLM Workflows`
+`React` `Vite` `Bootstrap` `JavaScript`
 
-🚧 **Deployment / further development coming later**
+### Features
+
+* 🏠 Professional homepage
+* 💊 Health products
+* 🩺 Services
+* 📩 Medicine enquiry
+* 📍 Contact & location
+* 📱 Responsive design
+
+### Status
+
+🚀 Development Project
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎨 GEJ DESIGN
+## 🤖 TamilVoice AI
 
-A web design and development project focused on creating a modern digital presence.
+An AI-powered Tamil voice processing project exploring speech recognition and Tamil language interaction.
 
-**Focus**
+### Core Technologies
 
-`Web Development` `UI Design` `Responsive Design`
+`Python` `Speech AI` `STT` `Tamil NLP`
 
-🚧 **Deployment coming later**
+### Focus
+
+* 🎙️ Tamil speech recognition
+* 🗣️ Voice interaction
+* 🧠 AI language processing
+* 🌐 Regional-language technology
+
+### Status
+
+🧪 Prototype / Research
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 👁️ VisionGuard AI
+
+### Adaptive Few-Shot Visual Inspection
+
+An AI-powered visual inspection concept designed for MSMEs.
+
+### Core Technologies
+
+`Computer Vision` `Few-Shot Learning` `Transfer Learning` `Edge AI`
+
+### Key Idea
+
+VisionGuard AI explores how an inspection system can learn new visual defects from a small number of example images instead of requiring a huge dataset.
+
+### Goal
+
+* 🏭 Automated quality inspection
+* 🖼️ Few-shot defect learning
+* 🤖 Human-in-the-loop AI
+* ⚡ Faster model adaptation
+* 📊 Reduced dataset requirements
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📡 RetrofitIQ
+
+### Intelligent Sensor-Based Monitoring
+
+An IoT and edge-computing concept for monitoring machine conditions using sensors and intelligent anomaly detection.
+
+### Architecture
+
+```text
+Sensor Data
+     ↓
+Data Processing
+     ↓
+Self Calibration
+     ↓
+Normal Baseline
+     ↓
+Live Comparison
+     ↓
+Anomaly Detection
+     ↓
+LED / Buzzer Alert
+```
+
+### Focus
+
+`ESP32` `Sensors` `Edge AI` `IoT`
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🤖 Innovation & AI Ideas
+# 🤖 Innovation & AI
 
-## 01. IoT Based Disaster Management System
+## 01. VisionGuard AI
 
-A decentralized IoT and edge-computing disaster management system designed for real-time detection of multiple hazards.
+### Adaptive Few-Shot Visual Quality Inspection
 
-### Core Technologies
+VisionGuard AI is an experimental concept focused on bringing AI-powered visual inspection to **Micro, Small and Medium Enterprises**.
 
-`ESP32` `IoT` `Edge Computing` `LoRa` `Wi-Fi`
+Instead of requiring thousands of defect images, the system explores learning new defect categories from a small number of examples.
 
-### Disaster Detection
-
-- 🔥 Fire detection
-- 🌊 Flood / water-level monitoring
-- 🏔️ Landslide detection using accelerometers
-- 📡 Long-range LoRa emergency communication
-- 🚨 Local alarm system
-- 📺 LCD status display
-- ☁️ IoT notifications when internet connectivity is available
-
-The system is designed to continue operating during network failures through local edge processing and long-range communication.
-
----
-
-## 02. VisionGuard AI
-
-### Adaptive Few-Shot Visual Quality Inspection System
-
-An AI-powered visual inspection concept designed specifically for Micro, Small and Medium Enterprises.
-
-### Core Technologies
+### Technologies
 
 `Computer Vision` `Few-Shot Learning` `Transfer Learning` `Human-in-the-Loop AI`
 
-### Key Idea
+### Vision
 
-👁️🤖 VisionGuard AI enables rapid learning of new defects from just 5–10 sample images 🖼️, reducing the need for large labeled datasets 📊 and minimizing expensive model retraining 🔄. This helps MSMEs 🏭 adapt their visual inspection systems faster ⚡, improve quality control 🎯, and scale AI-powered inspection more efficiently 🚀.
+> Teach the AI new defects instead of rebuilding the entire model.
 
-### Applications
+---
 
-**Features:**
+## 02. IoT-Based Disaster Management
 
-- 🍽️ Online Menu
-- 🛒 Shopping Cart
-- 💳 Checkout
-- 📦 Order Tracking
-- 🔌 Backend API
-- 🍃 MongoDB Integration
-- 🛠️ Admin-Oriented Architecture
+A decentralized IoT and edge-computing concept designed for real-time detection of multiple environmental hazards.
+
+### Detection
+
+* 🔥 Fire detection
+* 🌊 Flood / water-level monitoring
+* 🏔️ Landslide detection
+* 📡 Long-range LoRa communication
+* 🚨 Local emergency alerts
+* 📺 Local status display
+* ☁️ Cloud notifications when connectivity is available
+
+The system focuses on **local edge processing**, allowing essential detection and alerts to continue even when internet connectivity is unavailable.
+
+---
+
+## 03. RetrofitIQ
+
+An intelligent monitoring architecture combining sensors, baseline learning and anomaly detection.
+
+### Core Pipeline
+
+```text
+Physical System
+      ↓
+Sensors
+      ↓
+Signal Processing
+      ↓
+Self Calibration
+      ↓
+Normal Behaviour Model
+      ↓
+Real-Time Monitoring
+      ↓
+Anomaly Detection
+      ↓
+Alert / Action
+```
 
 ---
 
@@ -256,64 +393,58 @@ An AI-powered visual inspection concept designed specifically for Micro, Small a
 
 ## The Future of Memory and Identity in a Digital World
 
-**Compiler:** Mr. P. Harisiva  
-**Co-Compiler:** Ms. V. S. Harshini
+**Compiler:** P. Harisiva
+**Co-Compiler:** V. S. Harshini
 
-A collaborative anthology exploring the relationship between memory, identity and digital technology.
+A collaborative anthology exploring the relationship between **memory, identity and digital technology**.
 
 ### Themes
 
-- 🧠 Memory Augmentation
-- 💾 Digital Afterlife
-- 🤖 Artificial Memory
-- 🌐 Online Identity
+* 🧠 Memory Augmentation
+* 💾 Digital Afterlife
+* 🤖 Artificial Memory
+* 🌐 Online Identity
 
 ### My Contribution
 
-- 👥 Coordinated the collection of articles from **50 contributors**
-- 📂 Organized contributor submissions
-- ✍️ Worked on contributor introductions and profiles
-- 🗂️ Coordinated the overall content compilation
-- 📖 Contributed to preparing the anthology for publication
+* 👥 Coordinated content collection from **50 contributors**
+* 📂 Organized contributor submissions
+* ✍️ Prepared contributor introductions
+* 🗂️ Coordinated content compilation
+* 📖 Worked toward preparing the anthology for publication
 
-**Language:** English / Tamil
+**Languages:** English / Tamil
 
 ---
 
 # 🏆 Achievements
 
-### 🥉 3rd Position — Paper Presentation
-
-**ASTHRA-2K25 — National Level Technical Symposium & Cultural Fest**
-
-**Karpagam Institute of Technology, Coimbatore**
-
-📅 April 9, 2025
+| 🏆 | Achievement                           | Details                                                 |
+| --  | ------------------------------------- | ------------------------------------------------------  |
+| 🥉 | **3rd Position — Paper Presentation** | ASTHRA-2K25, Karpagam Institute of Technology           |
+| 🥉 | **3rd Prize — Speaking Competition**  | Topic: *Digital Book: Is It Better or Not?*             |
+| 🏅 | **Project & Hackathon Participation** | Multiple technical competitions and innovation programs |
+| 💡 | **Innovation Projects**               | AI, IoT, Computer Vision & Edge Computing               |
+| 🎓 | **C-DAC IoT Learning**                | IoT, embedded systems and sensor-based technologies     |
 
 ---
 
-### 🥉 3rd Prize — Speaking Competition
-
-**Topic:** *“Digital Book: Is It Better or Not?”*
-
-
-
 # 🎓 Education
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
+| Degree                                           | Institution                                        | Period              |               Score |
+| ------------------------------------------------ | -------------------------------------------------- | ------------------- | ------------------: |
 | **B.E. Electronics & Communication Engineering** | **K.S. Rangasamy College of Technology, Namakkal** | Aug 2024 – May 2028 | **CGPA: 8.94 / 10** |
 
 ---
 
-# 📜 Education & Certifications
+# 📜 Certifications & Learning
 
-### 💻 Certifications
+### 💻 Programming
 
-| Certification | Platform | Details |
-|---|---|---|
-| C Programming | Infosys Springboard | Fundamentals, memory management & programming concepts |
-| Industrial IoT | NPTEL | 12-week course · **79/100** · IoT protocols, SCADA, sensor networks |
+| Certification  | Platform            | Focus                                      |
+| -------------- | ------------------- | ------------------------------------------ |
+| C Programming  | Infosys Springboard | Programming fundamentals & memory concepts |
+| Industrial IoT | NPTEL               | IoT protocols, SCADA & sensor networks     |
 
 ---
 
@@ -321,39 +452,45 @@ A collaborative anthology exploring the relationship between memory, identity an
 
 ### 7 / 7 Courses Completed ✅
 
-| # | Course |
-|---:|---|
-| 01 | AI Fundamentals |
+|  # | Course                            |
+| -: | --------------------------------- |
+| 01 | AI Fundamentals                   |
 | 02 | AI for Brainstorming and Planning |
-| 03 | AI for Research and Insights |
-| 04 | AI for Writing and Communicating |
-| 05 | AI for Content Creation |
-| 06 | AI for Data Analysis |
-| 07 | AI for App Building |
+| 03 | AI for Research and Insights      |
+| 04 | AI for Writing and Communicating  |
+| 05 | AI for Content Creation           |
+| 06 | AI for Data Analysis              |
+| 07 | AI for App Building               |
 
 ---
 
 ## 🪟 Microsoft Learn
 
-### 2 Achievements / Badges 🏅
+### AI & Generative AI
 
-| Achievement | Status |
-|---|---|
-| Introduction to AI concepts | ✅ Assessment Passed |
-| Get started with generative AI and agents in Azure | ✅ Assessment Passed |
+* ✅ Introduction to AI concepts
+* ✅ Get started with generative AI and agents in Azure
 
 ---
 
-# 🌍 IELTS
+# 🧠 Currently Learning
 
-**Overall Band Score: 6.0**
-
-| Skill | Band |
-|---|---:|
-| Reading   | 6.0 |
-| Listening | 6.0 |
-| Writing   | 5.5 |
-| Speaking  | 6.0 |
+```text
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│  → Advanced Full-Stack Development                        │
+│  → React Architecture & Modern Frontend                   │
+│  → FastAPI & Backend Engineering                          │
+│  → PostgreSQL & Database Design                           │
+│  → Artificial Intelligence                                │
+│  → Machine Learning                                       │
+│  → Computer Vision                                        │
+│  → Edge AI & TinyML                                       │
+│  → IoT & Embedded Systems                                 │
+│  → DSA & Technical Interview Preparation                  │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -383,36 +520,68 @@ A collaborative anthology exploring the relationship between memory, identity an
 
 ---
 
-# 🎯 Currently Learning
+# 🎯 My Development Philosophy
 
 ```text
-┌───────────────────────────────────────────────────┐
-│                                                   │
-│  → Full-Stack Development                         │
-│  → Advanced React                                 │
-│  → Backend Development                            │
-│  → Artificial Intelligence                        │
-│  → Machine Learning                               │
-│  → Computer Vision                                │
-│  → IoT & Edge Computing                           │
-│                                                   │
-└───────────────────────────────────────────────────┘
+        IDEA
+         │
+         ▼
+     EXPERIMENT
+         │
+         ▼
+       BUILD
+         │
+         ▼
+       TEST
+         │
+         ▼
+       LEARN
+         │
+         ▼
+       IMPROVE
+         │
+         ▼
+       IMPACT
 ```
+
+> **Build. Learn. Create. Innovate.**
+
+I believe software development is not just about writing code.
+
+It is about turning ideas into useful solutions, solving meaningful problems, learning from failures, and continuously improving what we build.
+
+Every project is an opportunity to learn something new.
+
+Every bug is a lesson.
+
+Every idea is a chance to create an impact.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 **Email:** [harisiva.ksr.ct@gmail.com](mailto:harisiva.ksr.ct@gmail.com)  
-💼 **LinkedIn:** [Harisiva P](https://www.linkedin.com/in/harisiva-p-113a73327/)  
+<div align="center">
+
+📧 **Email:** [harisiva.ksr@gmail.com](mailto:harisiva.ksr@gmail.com)
+
+💼 **LinkedIn:** [Harisiva P](https://www.linkedin.com/in/harisiva-p-113a73327/)
+
 💻 **GitHub:** [harisiva-1117](https://github.com/harisiva-1117)
+
+📍 **Namakkal, Tamil Nadu, India**
+
+<br>
+
+### ⭐ If you find my projects interesting, consider starring the repositories!
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 Build. Learn. Create. Innovate.
+### 🚀 BUILD • LEARN • CREATE • INNOVATE
 
-**💻 Software development is not just about writing code; it is about 💡 turning ideas into solutions, 🧩 solving problems that matter, 📚 learning from every failure, and 🔄 continuously improving what we build. Every line of code is an opportunity to 🛠️ create something useful, every 🐛 bug is a lesson, and every 🚀 project is a step toward becoming a better developer. Build with curiosity 🔍, develop with purpose 🎯, learn without limits 🌱, and create technology that makes an impact 🌍.**
+*"Turning ideas into technology, one project at a time."*
 
 </div>
