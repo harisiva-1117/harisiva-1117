@@ -10,7 +10,7 @@ Building modern web applications, exploring Artificial Intelligence, and turning
 
 [![GitHub](https://img.shields.io/badge/GitHub-harisiva--1117-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/harisiva-1117)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harisiva%20P-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harisiva-p-113a73327/)
-[![Email](https://img.shields.io/badge/Email-harisiva.ksr%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harisiva.ksr.ct@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harisiva.ksr.ct%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harisiva.ksr.ct@gmail.com)
 
 </div>
 
